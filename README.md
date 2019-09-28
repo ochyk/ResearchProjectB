@@ -6,7 +6,7 @@ This program analyzes cyber attacks on honeypot.
 ![攻撃者数](https://raw.githubusercontent.com/wiki/ochyk/ResearchProjectB/images/kazu.gif)
 ![コマンド履歴](https://raw.githubusercontent.com/wiki/ochyk/ResearchProjectB/images/command.gif)
 -->
-<table cellpadding="0" border="none" cellspacing="0">
+<table>
   <tr>
     <td><img alt="" src="https://raw.githubusercontent.com/wiki/ochyk/ResearchProjectB/images/realtime.gif"/></td>
     <td><img alt="" src="https://raw.githubusercontent.com/wiki/ochyk/ResearchProjectB/images/kiroku.gif"/></td>
